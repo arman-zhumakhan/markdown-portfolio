@@ -1,4 +1,3 @@
-## List
 - apple
 - banana
   - not black
